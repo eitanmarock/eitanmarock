@@ -1,6 +1,6 @@
 ## Hi, I'm Eitan Marock
 
-Electrical & Electronic Engineering graduate (B.Sc., Ariel University, 2026), focused on **RTL design, functional verification and FPGA/SoC integration**. Looking for a full-time position in silicon design or validation.
+Electrical & Electronic Engineering graduate (B.Sc., Ariel University, 2026) with a **Major in Computers** and a **Minor in Signal Processing** Looking for a full-time position.
 
 ### Projects
 
