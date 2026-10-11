@@ -19,7 +19,7 @@ A combination lock built with no microcontroller, using flip-flops, counters, mo
 - **Verification:** UVM, SystemVerilog Assertions, constrained-random testing, functional coverage
 - **FPGA / SoC:** AMD Vivado, Vitis, Zynq-7000 (PYNQ-Z2), Artix-7 (Basys3)
 - **Embedded:** C/C++, ESP32, FreeRTOS, TinyML (Edge Impulse)
-- **Other:** Python, MATLAB, NI Multisim, Linux
+- **Other:** Python, MATLAB, NI Multisim
 
 ### Contact
 
